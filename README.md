@@ -12,9 +12,6 @@
 ![](https://img.shields.io/badge/Pentesting-BurpSuite-informational?style=flat&logo=tails&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Pentesting-Metasploit-informational?style=flat&logo=tails&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Pentesting-NMAP-informational?style=flat&logo=tails&logoColor=white&color=e00909)
-![](https://img.shields.io/badge/Pentesting-FileSystem-informational?style=flat&logo=tails&logoColor=white&color=e00909)
-![](https://img.shields.io/badge/Pentesting-MailServers-informational?style=flat&logo=roundcube&logoColor=white&color=e00909)
-![](https://img.shields.io/badge/Pentesting-SQLMap-informational?style=flat&logo=mysql&logoColor=white&color=e00909)
 
 ![](https://img.shields.io/badge/Development-PHP-informational?style=flat&logo=PHP&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Development-JS-informational?style=flat&logo=JavaScript&logoColor=white&color=e00909)

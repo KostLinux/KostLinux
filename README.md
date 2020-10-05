@@ -1,5 +1,5 @@
 # KostLinux, Junior IT Specialist
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&width=400&section=footer&text=KostLinux%20Junior%20IT%20Specialist&fontSize=50&fontColor=blue)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&width=400&section=footer&text=KostLinux%20Junior%20IT%20Specialist&fontSize=50&fontColor=blue)
 
 Hey, i'm Christofher and currently working as a System Administrator.
 I need

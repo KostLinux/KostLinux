@@ -10,8 +10,8 @@ Hey, i'm Christofher. I specialize on System Administration, Penetration Testing
 ![](https://img.shields.io/badge/Administration-Debian-informational?style=flat&logo=debian&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Administration-OpenSUSE-informational?style=flat&logo=opensuse&logoColor=white&color=e00909)
 
-![](https://img.shields.io/badge/Network-Juniper-informational?style=flat&logo=juniper&logoColor=white&color=e00909)
-![](https://img.shields.io/badge/Network-MikroTiK-informational?style=flat&logo=mikrotik&logoColor=white&color=e00909)
+![](https://img.shields.io/badge/Network-Juniper-informational?style=flat&logo=cisco&logoColor=white&color=e00909)
+![](https://img.shields.io/badge/Network-MikroTiK-informational?style=flat&logo=cisco&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Network-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=e00909)
 
 ![](https://img.shields.io/badge/Pentesting-Kali-informational?style=flat&logo=tails&logoColor=white&color=e00909)

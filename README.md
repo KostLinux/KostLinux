@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=70&section=header&text=KostLinux%20Junior%20IT%20Specialist&fontSize=50&fontColor=#0c386e)
+# [KostLinux, IT Specialist](https://github.com/KostLinux)
 
-Hey, i'm Christofher and currently working as a System Administrator.
-I need
+## Specializing
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Automatization-Ansible-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 [![KostLinux github stats](https://github-readme-stats.vercel.app/api?username=KostLinux&theme=tokyonight&show_icons=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)

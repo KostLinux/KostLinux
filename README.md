@@ -14,10 +14,10 @@ Hey, i'm Christofher. I specialize on System Administration, Penetration Testing
 ![](https://img.shields.io/badge/Network-MikroTiK-informational?style=flat&logo=cisco&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Network-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=e00909)
 
-![](https://img.shields.io/badge/Pentesting-Kali-informational?style=flat&logo=tails&logoColor=white&color=e00909)
-![](https://img.shields.io/badge/Pentesting-BurpSuite-informational?style=flat&logo=tails&logoColor=white&color=e00909)
-![](https://img.shields.io/badge/Pentesting-Metasploit-informational?style=flat&logo=tails&logoColor=white&color=e00909)
-![](https://img.shields.io/badge/Pentesting-NMAP-informational?style=flat&logo=tails&logoColor=white&color=e00909)
+![](https://img.shields.io/badge/Pentesting-Network-informational?style=flat&logo=tails&logoColor=white&color=e00909)
+![](https://img.shields.io/badge/Pentesting-Systems-informational?style=flat&logo=tails&logoColor=white&color=e00909)
+![](https://img.shields.io/badge/Pentesting-Email-informational?style=flat&logo=proton-mail&logoColor=white&color=e00909)
+![](https://img.shields.io/badge/Pentesting-Databases-informational?style=flat&logo=mysql&logoColor=white&color=e00909)
 
 ![](https://img.shields.io/badge/Development-PHP-informational?style=flat&logo=PHP&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Development-JS-informational?style=flat&logo=JavaScript&logoColor=white&color=e00909)

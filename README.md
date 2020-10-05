@@ -20,7 +20,7 @@ Also i can read code.
 
 ![](https://img.shields.io/badge/Pentesting-Network-informational?style=flat&logo=tails&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Pentesting-Systems-informational?style=flat&logo=tails&logoColor=white&color=e00909)
-![](https://img.shields.io/badge/Pentesting-Email-informational?style=flat&logo=proton-mail&logoColor=white&color=e00909)
+![](https://img.shields.io/badge/Pentesting-Email-informational?style=flat&logo=protonmail&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Pentesting-Databases-informational?style=flat&logo=mysql&logoColor=white&color=e00909)
 
 ![](https://img.shields.io/badge/Development-PHP-informational?style=flat&logo=PHP&logoColor=white&color=e00909)

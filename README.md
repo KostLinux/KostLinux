@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=_#000000&height=70&section=header&text=KostLinux%20Junior%20IT%20Specialist&fontSize=50&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=rect&color=_#000000&height=70&section=header&text=KostLinux%20Junior%20IT%20Specialist&fontSize=50&fontColor=#ffffff)
 
 Hey, i'm Christofher and currently working as a System Administrator.
 I need

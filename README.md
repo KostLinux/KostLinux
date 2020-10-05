@@ -1,7 +1,6 @@
 # [KostLinux, IT Specialist](https://github.com/KostLinux)
 
 Hey, i'm Christofher. I specialize on System Administration, Penetration Testing, Network Administration.
-Also i can read code.
 
 - 📫 How to reach me: christofher.kost@itwebsolutions.co
 

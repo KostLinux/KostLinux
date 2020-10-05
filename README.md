@@ -2,7 +2,7 @@
 
 ## Specializing
 
-![](https://img.shields.io/badge/Administration-VMware-Ansible-informational?style=flat&logo=vmware&logoColor=white&color=e00909)
+![](https://img.shields.io/badge/Administration-VMware/Ansible-informational?style=flat&logo=vmware&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Administration-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Administration-RedHat-informational?style=flat&logo=red-hat&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Administration-Debian-informational?style=flat&logo=debian&logoColor=white&color=e00909)

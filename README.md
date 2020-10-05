@@ -1,6 +1,10 @@
 # [KostLinux, IT Specialist](https://github.com/KostLinux)
 
 Hey, i'm Christofher. I specialize on System Administration, Penetration Testing, Network Administration.
+Also i can read code.
+
+- 📫 How to reach me: christofher.kost@itwebsolutions.co
+
 
 ## Specializing
 
@@ -23,6 +27,7 @@ Hey, i'm Christofher. I specialize on System Administration, Penetration Testing
 ![](https://img.shields.io/badge/Development-JS-informational?style=flat&logo=JavaScript&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Development-Composer-informational?style=flat&logo=composer&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Development-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=e00909)
+![](https://img.shields.io/badge/Development-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=e00909)
 
 
 ## Stats

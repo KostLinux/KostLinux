@@ -40,6 +40,7 @@ Hey, i'm Christofher. I specialize on System Administration, Network Administrat
 ![](https://img.shields.io/badge/Monitor-Kibana-informational?style=flat&logo=kibana&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Monitor-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=e00909)
 
+And a lot of other things.
 
 ## Stats
 

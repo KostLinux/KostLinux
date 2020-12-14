@@ -13,6 +13,7 @@ Hey, i'm Christofher. I specialize on System Administration, Network Administrat
 ![](https://img.shields.io/badge/Administration-RedHat-informational?style=flat&logo=red-hat&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Administration-Debian-informational?style=flat&logo=debian&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Administration-OpenSUSE-informational?style=flat&logo=opensuse&logoColor=white&color=e00909)
+
 ![](https://img.shields.io/badge/Administration-Docker-informational?style=flat&logo=docker&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Administration-K8S-informational?style=flat&logo=kubernetes&logoColor=white&color=e00909)
 ![](https://img.shields.io/badge/Administration-TF-informational?style=flat&logo=terraform&logoColor=white&color=e00909)

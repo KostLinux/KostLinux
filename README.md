@@ -4,11 +4,12 @@ Hey, i'm Christofher, fascinated Ops Engineer (DevOps & GitOps)
 
 - 📫 How to reach me: christofher.kost@gmail.com
 - ⚡ Fun fact: One of my old projects([zabbix-photon](https://github.com/KostLinux/zabbix_photon)) got to Github Archive Program. 
-- ⚡️ Certified: Certified GitOps Engineer
+- ⚡️ Certified: GitOps Engineer
 
 ## Specializing
 
-Mostly i'm specializing on continuous integrations & delivery, infrastructure as code. All my projects are done via GitOps principles.
+Mostly i'm specializing on continuous integrations & delivery, infrastructure as code. All my projects are done via GitOps principles and CloudOps.
+
 
 ## Stats
 

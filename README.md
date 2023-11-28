@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Site Reliability Engineer from Estonia</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
@@ -47,14 +47,14 @@ Sunday                   27 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-Terraform                18 hrs 14 mins      █████████████░░░░░░░░░░░░   52.12 % 
-YAML                     3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Docker                   2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-HCL                      1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-EJS                      1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Terraform                19 hrs 48 mins      ██████████████░░░░░░░░░░░   57.53 % 
+YAML                     3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+EJS                      1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Docker                   1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Bash                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-VS Code                  35 hrs              █████████████████████████   100.00 % 
+VS Code                  34 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -74,7 +74,7 @@ Jinja                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KostLinux/KostLinux/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2023 20:34:58 UTC
+ Last Updated on 28/11/2023 18:45:53 UTC
 <!--END_SECTION:waka-->
 
 - 🌱 I’m currently learning **Laravel, AWS, Go**

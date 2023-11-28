@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Site Reliability Engineer from Estonia</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
@@ -74,7 +74,7 @@ Jinja                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KostLinux/KostLinux/main/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2023 18:45:53 UTC
+ Last Updated on 28/11/2023 18:54:11 UTC
 <!--END_SECTION:waka-->
 
 - 🌱 I’m currently learning **Laravel, AWS, Go**

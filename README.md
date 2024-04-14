@@ -43,37 +43,9 @@
 ## Statistics from WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2049%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4916 commits        ████████░░░░░░░░░░░░░░░░░   30.99 % 
-🌆 Daytime                9360 commits        ███████████████░░░░░░░░░░   59.01 % 
-🌃 Evening                1470 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-🌙 Night                  115 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Tallinn
-
-💬 Programming Languages: 
-YAML                     4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Other                    4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Terraform                3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-HTML                     3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Docker                   2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-
-🔥 Editors: 
-VS Code                  23 hrs 33 mins      █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in Go** 
 
@@ -88,5 +60,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2024 18:49:07 UTC
+ Last Updated on 14/04/2024 23:08:19 UTC
 <!--END_SECTION:waka-->

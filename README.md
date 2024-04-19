@@ -40,6 +40,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KostLinux&layout=compact&theme=dark)
 
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KostLinux&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github-profile-trophy.vercel.app/?username=KostLinux&theme=onedark&rank=S,AAA)
+
 ## Statistics from WakaTime
 
 <!--START_SECTION:waka-->

@@ -48,7 +48,7 @@
 ## Statistics from WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,5 +93,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2024 18:42:30 UTC
+ Last Updated on 24/09/2024 18:43:05 UTC
 <!--END_SECTION:waka-->

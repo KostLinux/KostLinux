@@ -48,19 +48,19 @@
 ## Statistics from WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                613 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-🌆 Daytime                757 commits         ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-🌃 Evening                1432 commits        ████████████░░░░░░░░░░░░░   48.66 % 
-🌙 Night                  141 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+🌞 Morning                577 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+🌆 Daytime                745 commits         ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+🌃 Evening                1312 commits        ████████████░░░░░░░░░░░░░   47.28 % 
+🌙 Night                  141 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 
@@ -91,5 +91,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2024 18:41:23 UTC
+ Last Updated on 28/12/2024 18:40:35 UTC
 <!--END_SECTION:waka-->

@@ -48,7 +48,7 @@
 ## Statistics from WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,10 +70,10 @@
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-Markdown                 13 mins             █████████████████████████   100.00 % 
+Markdown                 43 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -89,5 +89,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/04/2025 18:38:59 UTC
+ Last Updated on 13/04/2025 18:39:10 UTC
 <!--END_SECTION:waka-->

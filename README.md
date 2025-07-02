@@ -48,17 +48,19 @@
 ## Statistics from WakaTime
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-781%20hrs%2055%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-529.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-529.0%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                607 commits         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-🌆 Daytime                623 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-🌃 Evening                1123 commits        ███████████░░░░░░░░░░░░░░   44.87 % 
-🌙 Night                  150 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+🌞 Morning                607 commits         ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+🌆 Daytime                616 commits         ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+🌃 Evening                1123 commits        ███████████░░░░░░░░░░░░░░   44.99 % 
+🌙 Night                  150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 
 
@@ -91,5 +93,5 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 18:50:59 UTC
+ Last Updated on 02/07/2025 18:51:47 UTC
 <!--END_SECTION:waka-->

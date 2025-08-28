@@ -70,10 +70,12 @@
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     1 hr 9 mins         ████████████████████████░   97.91 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -89,5 +91,5 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2025 18:51:57 UTC
+ Last Updated on 28/08/2025 18:52:43 UTC
 <!--END_SECTION:waka-->

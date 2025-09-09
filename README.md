@@ -70,10 +70,12 @@
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Terraform                13 mins             ███████████████████████░░   93.40 % 
+Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -89,5 +91,5 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2025 18:50:45 UTC
+ Last Updated on 09/09/2025 18:50:13 UTC
 <!--END_SECTION:waka-->

@@ -48,9 +48,37 @@
 ## Statistics from WakaTime
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2049%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-243.7%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-243.2%20thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                299 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌆 Daytime                191 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+🌃 Evening                372 commits         ██████████░░░░░░░░░░░░░░░   41.47 % 
+🌙 Night                  35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Tallinn
+
+💬 Programming Languages: 
+Go                       6 hrs 39 mins       █████████████████░░░░░░░░   66.72 % 
+Markdown                 2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+YAML                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 59 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Go** 
 
@@ -65,5 +93,5 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 23:44:00 UTC
+ Last Updated on 03/10/2025 18:47:05 UTC
 <!--END_SECTION:waka-->

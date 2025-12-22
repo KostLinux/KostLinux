@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){"undefined"!=typeof Calendly?console.log("Calendly widget loaded successfully"):console.warn("Calendly widget failed to load")});

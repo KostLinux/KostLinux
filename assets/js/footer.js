@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){var e=document.getElementById("copyright"),t=(new Date).getFullYear();e.innerHTML=`&copy; ${t} Christofher Koest`});

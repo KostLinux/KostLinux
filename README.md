@@ -5,7 +5,7 @@
 ### DevOps Engineer & Entrepreneur | Transforming Businesses Through Cloud Innovation
 
 <p align="center">
-  <a href="https://kostlinux.github.io/Portfolio">
+  <a href="https://christofherkost.org">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/christofher-kost-04b9791a2">
@@ -13,12 +13,6 @@
   </a>
   <a href="mailto:christofher.kost@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://codepen.io/kostlinux">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
-  </a>
-  <a href="https://instagram.com/chris_velikij">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
